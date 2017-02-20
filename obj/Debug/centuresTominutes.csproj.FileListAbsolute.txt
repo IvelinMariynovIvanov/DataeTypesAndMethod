@@ -1,0 +1,9 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\DataeTypesAndMethod\DataeTypesAndMethod\obj\Debug\centuresTominutes.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\DataeTypesAndMethod\DataeTypesAndMethod\bin\Debug\DataeTypesAndMethod.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\DataeTypesAndMethod\DataeTypesAndMethod\bin\Debug\DataeTypesAndMethod.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\DataeTypesAndMethod\DataeTypesAndMethod\bin\Debug\DataeTypesAndMethod.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\DataeTypesAndMethod\DataeTypesAndMethod\obj\Debug\DataeTypesAndMethod.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\DataeTypesAndMethod\DataeTypesAndMethod\obj\Debug\DataeTypesAndMethod.pdb
+M:\proekti\c#\C#Basic\DataeTypesAndMethod\DataeTypesAndMethod\bin\Debug\DataeTypesAndMethod.exe.config
+M:\proekti\c#\C#Basic\DataeTypesAndMethod\DataeTypesAndMethod\obj\Debug\DataeTypesAndMethod.exe
+M:\proekti\c#\C#Basic\DataeTypesAndMethod\DataeTypesAndMethod\obj\Debug\DataeTypesAndMethod.pdb
